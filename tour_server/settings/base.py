@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'tour_server.apps.authentication',
+    'tour_server.apps.users',
 ]
 
 MIDDLEWARE = [
